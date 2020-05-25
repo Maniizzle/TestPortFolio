@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "gh-pages": "^2.2.0"
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {},
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "echo \"Error: no test specified\" && exit 1"
   }, 
   "keywords": [],
   "author": "",
-  "homepage":"https://Maniizzle.github.io/TestPortFolio/",
+  "homepage":"https://Maniizzle.github.io/TestPortFolio",
   "license": "ISC"
 }
