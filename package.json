@@ -1,0 +1,17 @@
+{
+  "name": "PortFolioClean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  }, 
+  "keywords": [],
+  "author": "",
+  "homepage":"https://Maniizzle.github.io/TestPortFolio",
+  "license": "ISC"
+}
